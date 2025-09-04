@@ -1,2 +1,1 @@
-console.log("Hello Git!");
-constauthor = 'Main Developer';
+const author = 'Feature Developer';
