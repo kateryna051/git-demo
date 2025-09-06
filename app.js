@@ -1,1 +1,1 @@
-const author = 'Main Developer';
+const author = 'Feature Developer';
